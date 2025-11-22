@@ -86,7 +86,7 @@ FloraVision/
 
 🔧 Installation & Setup
 1. Clone the repository
-git clone https://github.com/your-repo/floravision.git
+git clone https://github.com/Flora-Vision-Task/floravision.git
 
 2. Navigate into the project
 cd floravision
